@@ -1,0 +1,91 @@
+* {
+    margin: 0 auto;
+}
+.box {
+    width: 100%;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(51, 107, 51);
+}
+.left {
+    width: 20%;
+    height: 500px;
+    background-color: rgb(255, 255, 0);
+    display: flex;
+}
+.right {
+    width: 80%;
+    height: 500px;
+}
+.photo {
+    width: 70%;
+}
+.text {
+    display: flex;
+}
+h1 {
+    margin: 0 auto;
+}
+.text2 {
+    color: rgb(255, 255, 255);
+    margin: 0 auto;
+}
+.square {
+    width: 60%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.square1 {
+    width: 85px;
+    height: 85px;
+    background-color: rgb(0, 0, 0);
+    margin: 5px;
+}
+.square2 {
+    width: 85px;
+    height: 85px;
+    background-color: rgb(0, 0, 0);
+    margin: 5px;
+}
+.square3 {
+    width: 85px;
+    height: 85px;
+    background-color: rgb(0, 0, 0);
+    margin: 5px;
+}
+.square4 {
+    width: 85px;
+    height: 85px;
+    background-color: rgb(0, 0, 0);
+    margin: 5px;
+}
+.foter {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.white {
+    margin: 0 auto;
+    color: rgb(255, 255, 255);
+}
